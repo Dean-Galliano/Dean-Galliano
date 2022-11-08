@@ -1,4 +1,4 @@
-Intersted in
+Interested in
 
       Macine Learning
       Deep Learning
