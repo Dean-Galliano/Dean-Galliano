@@ -2,7 +2,6 @@ Interested in
 
       Macine Learning
       Deep Learning
-      Data science
       Statistics
       
 Skill
@@ -10,6 +9,8 @@ Skill
       Python
 
       JavaScript
+      
+      C
 
 Career
 
