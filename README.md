@@ -4,7 +4,7 @@ Interested in
       Deep Learning
       Statistics
       
-Skill
+Skills
 
       Python
 
