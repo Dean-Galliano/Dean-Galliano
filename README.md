@@ -1,9 +1,6 @@
 Interested in
 
-      Macine Learning
-      Deep Learning
-      Statistics
-      
+      Backend Development 
 Skills
 
       Python
